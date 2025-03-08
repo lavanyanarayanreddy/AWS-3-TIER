@@ -1,4 +1,4 @@
-# AWS-3-TIER
+# AWS-3-TIER Application
 
 AWS 3 Tier Application Architecture
 This project demonstrates the implementation of a highly available, scalable, and secure 3-tier web application architecture using Amazon Web Services (AWS). The architecture consists of three primary layers: Web (Public), Application (Private), and Database. The solution ensures fault tolerance and scalability by leveraging AWS services such as EC2, RDS, Elastic Load Balancer (ALB), Auto Scaling, and CloudWatch.
